@@ -1,3 +1,0 @@
-
-
-- [Everthing is connected](appsconnected)
